@@ -4,7 +4,7 @@
 
 I am a 16 year old high school student from Southern California, and I like to (attempt to) code for fun. I've never actually been that good at it, especially considering my bad memory forcing me to constantly go back and double-check whether what I've written is correct. I've been coding since I was 14, but fell out of it for two years and started getting back into it at 16/January 2025. I'm only actually good at CSS and HTML, and am struggling to learn JavaScript. I'd like to learn C# and Java once I believe that I am ready for it.
 
-- I’m currently working on my website, { [removed js in case cuz my acc is flagged }. I made it in June-ish of 2024, but didn't really start actually working on it til Dec '24 or Jan '25. I also purchased the domain { same as above } but haven't actually done anything with it yet. I should probably quit paying for that, actually.
+- I’m currently working on my website, { [removed js in case cuz my acc is flagged] }. I made it in June-ish of 2024, but didn't really start actually working on it til Dec '24 or Jan '25. I also purchased the domain { [same as above] } but haven't actually done anything with it yet. I should probably quit paying for that, actually.
 - I’m currently attempting to learn HTML & CSS more fluently so I won't have to constantly check on my own writing. I'd also like to eventually learn JavaScript better, since I usually ask for help from friends when it comes to scripting.
 - If I built up the courage to actually ask for help for once, I'd like help with actually fully wrapping my head around how coding actually really works, if that makes sense? Like, I get it, but I don't think I truly understand it.
 - Ask me about 
